@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
+
+#this file is to check gitkraken operation
+#i'm learning gitkraken
 User-agent: *
 Disallow:
